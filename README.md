@@ -1,4 +1,4 @@
-# DataMobile - Sistema de Gestão de Ordens de Serviço e análise de outsourcing.
+# DataMobile - Sistema de Gestão de Ordens de Serviço e Análise de Outsourcing.
 
 > **Modernização de Software Legado:** Reestruturação de aplicativo Android nativo com foco em Material Design 3 e otimização de performance.
 
