@@ -2,10 +2,11 @@
 Legacy Android project refactoring/modernization on Java and XML Views | (PT-BT) Reestruturação de aplicativo legado, com desing Materials3 e modernização lógico-matemática.
 
 # DataMobile - Sistema de Gestão de OS e Sincronização
+![Demonstração de Sincronização](assets/gif tela de login.gif)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Material3](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Demonstração de Sincronização](assets/gif tela de login.gif)
+
 
 ## 📱 Sobre o Projeto
 O **DataMobile** é uma aplicação corporativa voltada para o envio de ordens de serviço onde técnicos de campo podem ver os detalhes da manutenção. 
