@@ -1,4 +1,4 @@
-# DataMobile - Sistema de Gestão de OS e Sincronização
+# DataMobile - Sistema de Gestão de Ordens de Serviço e análise de outsourcing.
 
 > **Modernização de Software Legado:** Reestruturação de aplicativo Android nativo com foco em Material Design 3 e otimização de performance.
 
@@ -9,10 +9,27 @@
 ## 📱 Sobre o Projeto
 O **DataMobile** é uma aplicação corporativa robusta voltada para técnicos de campo. O sistema permite a gestão detalhada de manutenções e ordens de serviço através de uma arquitetura **Offline-First**, garantindo que o fluxo de trabalho não seja interrompido por falta de conectividade.
 
+<table border="0">
+  <tr>
+    <td>
+      <img src="assets/gif_tela_de_login.gif" width="100%" alt="Login">
+    </td>
+    <td>
+      <img src="assets/OS.png" width="100%" alt="Ordens de Serviço">
+    </td>
+    <td>
+      <img src="assets/check_in.gif" width="100%" alt="Check-in">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Acesso e Segurança</b></td>
+    <td align="center"><b>Gestão de O.S.</b></td>
+    <td align="center"><b>Fluxo de Check-in</b></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="assets/gif_tela_de_login.gif" width="100%" alt="Demonstração do DataMobile">
-  <br>
-  <em>Interface modernizada e fluxo de sincronização inteligente em tempo real.</em>
+  <em>Visualização da interface modernizada: Login, Detalhes de OS e Sincronização de Check-in em tempo real.</em>
 </p>
 
 ---
