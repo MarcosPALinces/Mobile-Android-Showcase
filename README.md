@@ -12,7 +12,7 @@ O **DataMobile** é uma aplicação corporativa robusta voltada para técnicos d
 <table border="0">
   <tr>
     <td>
-      <img src="assets/gif_tela_de_login.gif" width="100%" alt="Login">
+      <img src="assets/nova_tela inicialn.gif" width="100%" alt="Login">
     </td>
     <td>
       <img src="assets/OS.png" width="100%" alt="Ordens de Serviço">
