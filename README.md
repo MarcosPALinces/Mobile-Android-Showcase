@@ -9,16 +9,16 @@
 ## 📱 Sobre o Projeto
 O **DataMobile** é uma aplicação corporativa robusta voltada para técnicos de campo. O sistema permite a gestão detalhada de manutenções e ordens de serviço através de uma arquitetura **Offline-First**, garantindo que o fluxo de trabalho não seja interrompido por falta de conectividade.
 
-<table border="0">
+<table border="0" align="center">
   <tr>
-    <td>
-      <img src="assets/nova_tela inicialn.gif" width="75%" alt="Login">
+    <td align="center" width="33%">
+      <img src="assets/nova_tela inicialn.gif" width="220" height="450" alt="Login">
     </td>
-    <td>
-      <img src="assets/OS.png" width="100%" alt="Ordens de Serviço">
+    <td align="center" width="33%">
+      <img src="assets/OS.png" width="220" height="450" alt="Ordens de Serviço">
     </td>
-    <td>
-      <img src="assets/check_in.gif" width="100%" alt="Check-in">
+    <td align="center" width="33%">
+      <img src="assets/check_in.gif" width="220" height="450" alt="Check-in">
     </td>
   </tr>
   <tr>
